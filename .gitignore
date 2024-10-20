@@ -10,3 +10,5 @@ temp
 bin/*.js
 bin/*.d.ts
 src/*.js
+
+.venv
